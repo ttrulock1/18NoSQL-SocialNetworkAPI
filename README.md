@@ -17,7 +17,8 @@ Clone the repository.  Using the command line, navigate to the root of the appli
 In the command line, run `npm start` to initiate server.  **NOTE:** This repository consists of only the backend.  The routes are located in the `routes/api` folder and can be tested with API test clients such as Insomnia Core or Postman. 
     
 ### Video Demo
-coming soon
+Here is an out of order but extremely awesome video demo showing all the working routes on insominia:
+https://youtu.be/Tjkj6F5kClM
 
 
 ## Questions
