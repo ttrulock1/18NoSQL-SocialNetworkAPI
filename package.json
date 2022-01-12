@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttrulock1/API-Social-Network.git"
+    "url": "git+ https://github.com/ttrulock1/18NoSQL-SocialNetworkAPI"
   },
   "author": "kruti patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ttrulock1/API-Social-Network/issues"
+    "url": " https://github.com/ttrulock1/18NoSQL-SocialNetworkAPI/issues"
   },
-  "homepage": "https://github.com/ttrulock1/API-Social-Network#readme",
+  "homepage": " https://github.com/ttrulock1/18NoSQL-SocialNetworkAPI",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.13.7"
